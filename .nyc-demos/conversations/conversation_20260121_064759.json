@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "start_time": "2026-01-21T06:47:58.704784",
+    "end_time": "2026-01-21T06:48:51.262482",
+    "model": "gpt-4.1",
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "seed": 42,
+    "deterministic_mode": true
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello - what can you do?",
+      "timestamp": "2026-01-21T06:48:18.058708"
+    }
+  ]
+}
